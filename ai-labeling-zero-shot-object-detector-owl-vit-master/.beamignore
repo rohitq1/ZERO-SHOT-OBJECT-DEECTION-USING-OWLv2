@@ -1,0 +1,12 @@
+models-cache/*
+.venv/*
+.ei-block-config
+.git/*
+edgeimpulse_api/api/__pycache__/*
+.venv-*/*
+__pycache__/
+checkpoints/*
+run_inference_beam.sh
+images/
+load-keys.sh
+.DS_Store
